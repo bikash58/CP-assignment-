@@ -1,0 +1,15 @@
+/* basically the whole page */
+#app {
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #D5D5D5; }
+  #app.asd {
+    color: red; }
+
+/* header styling */
+body.page-about .button {
+  color: red; }
+asdljgaskdj.page-about .button {
+  color: red; }
+
+/*# sourceMappingURL=scss.css.map */
